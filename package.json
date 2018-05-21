@@ -1,6 +1,6 @@
 {
   "name": "justeer",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Alignment tool.",
   "main": "index.js",
   "scripts": {
