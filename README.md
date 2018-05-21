@@ -1,6 +1,6 @@
-# Installation
+# Installation and usage
 
-Using npm:
+Install using npm:
 
 ```
 npm i --save justeer

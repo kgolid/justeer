@@ -1,4 +1,4 @@
-modules.exports = class Justeer {
+export default class Justeer {
   constructor(cs, n, s) {
     this.container_size = cs;
     this.number_of_elements = n;
@@ -16,4 +16,4 @@ modules.exports = class Justeer {
     let padding_between = (this.container_size - total_size) / (this.number_of_elements - 1);
     return i => spacing + i * (element_size + padding_between);
   }
-};
+}
